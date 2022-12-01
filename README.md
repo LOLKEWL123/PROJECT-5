@@ -6,6 +6,14 @@ An exploration of Godot's 3D Particles and 3D Sprites.
 
 ## Implementation
 
+Created enemy
+Created Crosshair
+Added background asset
+Made targets move
+Animate character and enemy
+Created gun
+Animated gun
+
 Built using Godot 3.5
 
 Exported for MacOS as project.dmg
